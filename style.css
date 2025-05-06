@@ -1,0 +1,33 @@
+*{
+    font-family: "Special Gothic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+body{
+    font-family: "Special Gothic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+ 
+}
+h2{
+    font-family: "Tinos", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+p{
+    font-size: 15;
+    font-weight: 100;
+}
+.bemvindo{
+    background-color: aliceblue;
+    white-space: pre-line;
+    
+}
+.login{
+    font-size: 30px;
+    text-align: center;
+    /* alinha verticalmente os items centro */
+    background-image: url(background.png) ;
+    background-size: 100%;
+}
